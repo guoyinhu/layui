@@ -23,7 +23,7 @@
     <div class="layadmin-user-login-main">
       <div class="layadmin-user-login-box layadmin-user-login-header">
         <h2>登陆</h2>
-        <p>兄弟连OA系统</p>
+        <p>管理系统</p>
       </div>
       <div class="layadmin-user-login-box layadmin-user-login-body layui-form">
         <div class="layui-form-item">

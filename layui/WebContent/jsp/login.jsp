@@ -67,9 +67,9 @@
     
     <div class="layui-trans layadmin-user-login-footer">
       
-      <p>© 2018 <a href="http://www.itxdl.cn/" target="_blank">itxdl.cn</a></p>
+      <p>© 2018 <a href="https://www.jianshu.com/p/be7dee1b69a0" target="_blank">xiaoxiao</a></p>
       <p> 
-        <span><a href="http://www.itxdl.cn/" target="_blank">前往官网</a></span>
+        <span><a href="https://www.jianshu.com/p/be7dee1b69a0" target="_blank">前往官网</a></span>
       </p>
     </div>
      

@@ -75,9 +75,9 @@
     
     <div class="layui-trans layadmin-user-login-footer">
       
-      <p>© 2018 <a href="http://www.itxdl.cn/" target="_blank">itxdl.cn</a></p>
+      <p>© 2018 <a href="" target="_blank">xiaoxiao</a></p>
       <p>  
-        <span><a href="http://www.itxdl.cn/" target="_blank">前往官网</a></span>
+        <span><a href="" target="_blank">前往官网</a></span>
       </p>
     </div>
 

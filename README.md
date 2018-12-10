@@ -17,4 +17,4 @@ layui部分功能代码分享
 密码：admin
 
 #### 使用说明
- https://gitee.com/logo.gif?20171106
+ https://www.jianshu.com/p/74fd92aa94b5
